@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>SWD_project</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\images\SWD project %282%29\SWD project\.vs\ProjectSettings.json" />
+    <Content Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\ColorByRegexConfig.txt" />
+    <Content Include="wwwroot\images\SWD project %282%29\SWD project\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\ProjectEvaluation\swd project.metadata.v7.bin" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\ProjectEvaluation\swd project.projects.v7.bin" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\slnx.sqlite" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\config\applicationhost.config" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\FileContentIndex\01752ad1-85f6-49ed-a3d6-6225ff5e83e6.vsidx" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\FileContentIndex\3d18e125-0a87-45d2-9325-6d76de279a05.vsidx" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\FileContentIndex\5ff4ba7e-2ccc-4f40-a288-453847f04220.vsidx" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\FileContentIndex\64973df6-8112-475f-abb9-d1b24665d922.vsidx" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\FileContentIndex\82e14a84-4de9-4116-9641-6fa66a15e16d.vsidx" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\.vs\SWD project\v17\.futdcache.v2" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\SWD project.sln" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\SWD project\SWD project.csproj" />
+    <None Include="wwwroot\images\SWD project %282%29\SWD project\SWD project\SWD project.csproj.user" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\SWD project %282%29\SWD project\NewFolder\" />
+    <Folder Include="wwwroot\images\SWD project %282%29\SWD project\SWD project\bin\Release\net6.0\" />
+    <Folder Include="wwwroot\images\SWD project %282%29\SWD project\SWD project\obj\Release\net6.0\refint\" />
+    <Folder Include="wwwroot\images\SWD project %282%29\SWD project\SWD project\obj\Release\net6.0\ref\" />
+    <Folder Include="wwwroot\images\SWD project %282%29\SWD project\SWD project\obj\Release\net6.0\staticwebassets\" />
+  </ItemGroup>
+
+</Project>

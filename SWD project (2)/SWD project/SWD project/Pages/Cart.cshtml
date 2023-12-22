@@ -1,0 +1,50 @@
+﻿@page
+@model SWD_project.Pages.CartModel
+@{
+}
+
+<div class="card-body p-4">
+    <div class="text-center row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+        <h5> Tea  7LE</h5>
+        <button class="btn btn-outline-dark mt-auto">-</button>
+        <h5>1</h5>
+        <button class="btn btn-outline-dark mt-auto">+</button>
+    </div>
+</div>
+<h3>----------------------------------------------------------------------------------------------------------------</h3>
+<div class="card-body p-4">
+    <div class="text-center row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+        <h5> Chips  10LE</h5>
+        <button class="btn btn-outline-dark mt-auto">-</button>
+        <h5>1</h5>
+        <button class="btn btn-outline-dark mt-auto">+</button>
+    </div>
+</div>
+<h3>----------------------------------------------------------------------------------------------------------------</h3>
+
+<div class="card-body p-4 list-group-horizontal">
+    <div class="text-center row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+        <h5> Coffee  15LE</h5>
+        <button class="btn btn-outline-dark mt-auto">-</button>
+        <h5>1</h5>
+        <button class="btn btn-outline-dark mt-auto">+</button>
+    </div>
+</div>
+
+<h3>----------------------------------------------------------------------------------------------------------------</h3>
+<h2>Total: 32</h2>
+<div class="card-footer p-4 pt-0 border-top-0 bg-transparent mb-20">
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+        <h4>Enter name for order receival: </h4>
+        <input class="text" />
+    </div>
+
+    <div class="text-center row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+        <a asp-area="" asp-page="/Receipt" class="btn btn-outline-primary d-flex align-items-center" style="width:20%">
+            <i class="bi-cart-fill me-1"></i>
+            Place order
+        </a>
+    </div>
+
+
+</div>

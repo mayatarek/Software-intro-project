@@ -1,0 +1,30 @@
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\appsettings.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\SWD project.staticwebassets.runtime.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\SWD project.exe
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\SWD project.deps.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\SWD project.runtimeconfig.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\SWD project.dll
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\bin\Debug\net6.0\SWD project.pdb
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.AssemblyInfoInputs.cache
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.AssemblyInfo.cs
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.csproj.CoreCompileInputs.cache
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.RazorAssemblyInfo.cache
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.RazorAssemblyInfo.cs
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\staticwebassets\msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\staticwebassets\msbuild.build.SWD project.props
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWD project.props
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWD project.props
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\scopedcss\bundle\SWD project.styles.css
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\scopedcss\projectbundle\SWD project.bundle.scp.css
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.dll
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\refint\SWD project.dll
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.pdb
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\SWD project.genruntimeconfig.cache
+C:\Users\Rawan\Desktop\ZC\cpp\projects\SWD project\SWD project\obj\Debug\net6.0\ref\SWD project.dll

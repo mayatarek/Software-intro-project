@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SWD project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Apple.jpg",
+      "PackagePath": "staticwebassets\\images\\Apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Cheese.jpg",
+      "PackagePath": "staticwebassets\\images\\Cheese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\CoffeeS.jpeg.jpg",
+      "PackagePath": "staticwebassets\\images\\CoffeeS.jpeg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Donty.jpg",
+      "PackagePath": "staticwebassets\\images\\Donty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Dor.jpg",
+      "PackagePath": "staticwebassets\\images\\Dor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2).zip",
+      "PackagePath": "staticwebassets\\images\\SWD project (2).zip"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\ProjectSettings.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\.vs\\ProjectSettings.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\SWD project\\ColorByRegexConfig.txt",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\.vs\\SWD project\\ColorByRegexConfig.txt"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\VSWorkspaceState.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\.vs\\VSWorkspaceState.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml.css",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml.css"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Program.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Program.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Properties\\launchSettings.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\Properties\\launchSettings.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.deps.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.deps.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.dll",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.dll"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.exe",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.exe"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.pdb",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.pdb"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.runtimeconfig.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.runtimeconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.staticwebassets.runtime.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.staticwebassets.runtime.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfo.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfo.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfoInputs.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfoInputs.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GlobalUsings.g.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GlobalUsings.g.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.MvcApplicationPartsAssemblyInfo.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.MvcApplicationPartsAssemblyInfo.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.assets.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.assets.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.BuildWithSkipAnalyzers",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.BuildWithSkipAnalyzers"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.CoreCompileInputs.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.CoreCompileInputs.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.FileListAbsolute.txt",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.FileListAbsolute.txt"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.dll",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.dll"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.genruntimeconfig.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.genruntimeconfig.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.pdb",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.pdb"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\apphost.exe",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\apphost.exe"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\project.razor.vs.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\project.razor.vs.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\ref\\SWD project.dll",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\ref\\SWD project.dll"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\refint\\SWD project.dll",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\refint\\SWD project.dll"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\Pages\\Shared\\_Layout.cshtml.rz.scp.css",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\Pages\\Shared\\_Layout.cshtml.rz.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.build.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.build.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.development.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.development.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.pack.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.pack.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SWD project.props",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SWD project.props"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SWD project.props",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SWD project.props"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SWD project.props",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SWD project.props"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfo.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfo.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfoInputs.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfoInputs.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GlobalUsings.g.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GlobalUsings.g.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cs",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cs"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.assets.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.assets.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.dgspec.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.dgspec.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.props",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.props"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.targets",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.targets"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.assets.json",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.assets.json"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.nuget.cache",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.nuget.cache"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SourCream.jpg",
+      "PackagePath": "staticwebassets\\images\\SourCream.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Spicy.jpg",
+      "PackagePath": "staticwebassets\\images\\Spicy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Tiger.jpg",
+      "PackagePath": "staticwebassets\\images\\Tiger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png",
+      "PackagePath": "staticwebassets\\images\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png",
+      "PackagePath": "staticwebassets\\images\\add2.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png",
+      "PackagePath": "staticwebassets\\images\\cart1.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg",
+      "PackagePath": "staticwebassets\\images\\chips.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg",
+      "PackagePath": "staticwebassets\\images\\chips2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg",
+      "PackagePath": "staticwebassets\\images\\chips3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg",
+      "PackagePath": "staticwebassets\\images\\chips4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png",
+      "PackagePath": "staticwebassets\\images\\plus 2.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png",
+      "PackagePath": "staticwebassets\\images\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SWD project.props",
+      "PackagePath": "build\\SWD project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SWD project.props",
+      "PackagePath": "buildMultiTargeting\\SWD project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SWD project.props",
+      "PackagePath": "buildTransitive\\SWD project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
