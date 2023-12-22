@@ -1,0 +1,69 @@
+﻿@page
+@model SWD_project.Pages.Admin_pageModel
+@{
+}
+
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container px-4 px-lg-5">
+
+        @*  changed href="#!" to href="~/" so we can click on the pages in the header *@
+
+
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+            
+
+            <li class="nav-item">
+                <a class="nav-link" asp-area="" asp-page="/index" style="color: gray;">Log out</a>
+            </li>
+
+
+            <li class="nav-item">
+                <a class="nav-link" asp-area="" asp-page="/orders" style="color: lightblue;"> View orders</a>
+            </li>
+        </ul>
+       
+    </div>
+   
+</nav>
+
+
+
+
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div class="col mb-5">
+                <div class="card h-100">
+                    <!-- Product image-->
+                    <img class="card-img-top" src="~/images/chips.jpeg" alt="..." />
+                    <!-- Product details-->
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            <!-- Product name-->
+                            <h5 class="fw-bolder"> chips</h5>
+                            10 LE
+                        </div>
+                    </div>
+                    <!-- Product actions-->
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Remove</a></div>
+                    </div>
+                </div>
+            </div>
+
+            <br> <br> <br>
+
+            <div class="col mb-5">
+                <div class="card h-100">
+                    <a class="product-item" asp-area="" asp-page="/add item">
+                        <img class="container-fluid" src="~/images/plus 2.png" alt="..." />
+                    </a>        
+                </div>
+            </div>
+            </div>
+            </div>
+            </section>
+
+

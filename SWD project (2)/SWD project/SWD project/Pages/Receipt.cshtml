@@ -1,0 +1,16 @@
+﻿@page
+@model SWD_project.Pages.ReceiptModel
+@{
+}
+
+<div class="container align-content-center">
+    <h1>Order confirmed!</h1>
+    <h1>Order #716</h1>
+    <h3>Pickup name: Rawan</h3>
+    <h3>Total: 29LE</h3>
+
+    @if (!string.IsNullOrEmpty(Model.OrderTime))
+    {
+        <p>Order Time: @Model.OrderTime</p>
+    }
+</div>

@@ -1,0 +1,110 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+
+    Layout = "_Layout";
+}
+
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container px-4 px-lg-5">
+
+        @*  changed href="#!" to href="~/" so we can click on the pages in the header *@
+
+
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="~/">Home</a></li>
+            @*
+            <li class="nav-item">
+            <a class="nav-link" asp-area="" asp-page="/Sign in">Sign in</a>
+            </li> *@
+
+
+
+
+            @*             <li class="nav-item">
+            <a class="nav-link" asp-area="" asp-page="/shop">shop</a>
+            </li> *@
+
+
+            @*for the follow up stuff*@
+            <a asp-area="" asp-page="/Sign in" class="btn btn-outline-primary d-flex align-items-center right-align">
+                <i class="bi-cart-fill me-1"></i>
+                Sign in as Admin
+                @*      <span class="badge bg-dark text-white ms-1 rounded-pill">0</span> *@
+            </a>
+
+        </ul>
+        <li><a class="nav-link" asp-area="" asp-page="/Cart"><img src="images/cart1.png" style="max-width: 40px; max-height: 40px;"></a></li>
+
+    </div>
+    </div>
+</nav>
+
+
+
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 justify-content-center">
+
+            @{
+                List<Models.Product> productsL = new List<Models.Product>();
+                productsL.Add(new Models.Product { ProductID = 1, Name = "Prime Ribs Chips", Price = 7, ImageUrl = "chips.jpeg" });
+                productsL.Add(new Models.Product { ProductID = 2, Name = "Coffee Shake", Price = 15, ImageUrl = "CoffeeS.jpeg.jpg" });
+                productsL.Add(new Models.Product { ProductID = 3, Name = "Cheese Chips", Price = 5, ImageUrl = "Cheese.jpg" });
+                productsL.Add(new Models.Product { ProductID = 4, Name = "Sour Cream Chips", Price = 7, ImageUrl = "SourCream.jpg" });
+                productsL.Add(new Models.Product { ProductID = 5, Name = "Spicy Chips", Price = 5, ImageUrl = "Spicy.jpg" });
+                productsL.Add(new Models.Product { ProductID = 6, Name = "Salt Chips", Price = 7, ImageUrl = "Tiger.jpg" });
+            }
+
+            @foreach (var product in productsL)
+            {
+                <div class="col mb-4">
+                    <div class="card h-100">
+                        <div class="text-center">
+                            <img class="card-img-top" src="~/images/@product.ImageUrl" alt="..." />
+                        </div>
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <h5 class="fw-bolder">@product.Name</h5>
+                                <p>@product.Price L.E</p>
+                            </div>
+                        </div>
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</section>
+
+
+}
+
+
+@{
+    List<Models.Product> cart = new List<Models.Product>();
+
+    if (Request.Method == "POST")
+    {
+        var productId = Request.Form["productId"];
+        var selectedProduct = productsL.FirstOrDefault(p => p.ProductID == productId);
+        if (selectedProduct != null)
+        {
+            cart.Add(selectedProduct);
+        }
+    }
+
+
+        foreach (Models.Product p in cart){
+            <p>Product ID:  @p.ProductID  Name: @p.Name   Price: @p.Price</p>
+        }
+
+ }
+
