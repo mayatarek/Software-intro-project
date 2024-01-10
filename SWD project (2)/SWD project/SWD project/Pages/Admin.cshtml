@@ -3,6 +3,18 @@
 @{
 }
 
+<style>
+    .btn.btn-primary {
+        background: #3b5d50;
+        border-color: #3b5d50;
+    }
+
+        .btn.btn-primary:hover {
+            background: #314d43;
+            border-color: #314d43;
+        }
+</style>
+
 <!-- Navigation-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container px-4 px-lg-5">
@@ -11,7 +23,6 @@
 
 
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-            
 
             <li class="nav-item">
                 <a class="nav-link" asp-area="" asp-page="/index" style="color: gray;">Log out</a>
@@ -22,51 +33,90 @@
                 <a class="nav-link" asp-area="" asp-page="/orders" style="color: lightblue;"> View orders  </a>
             </li>
 
-            
-
         </ul>
-       
+
     </div>
-   
+
 </nav>
-
-
-
+@*-----------------------------------------------------------------------*@
 
 
 <section class="py-5">
     <div class="container px-4 px-lg-5 mt-5">
-        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
-            <div class="col mb-5">
-                <div class="card h-100">
-                    <!-- Product image-->
-                    <img class="card-img-top" src="~/images/chips.jpeg" alt="..." />
-                    <!-- Product details-->
-                    <div class="card-body p-4">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 justify-content-center">
+            @for (int i = 0; i < Model.ProductCount; i++)
+            {
+                <div class="col mb-4">
+                    <div class="card h-100">
                         <div class="text-center">
-                            <!-- Product name-->
-                            <h5 class="fw-bolder"> chips</h5>
-                            10 LE
+                            <img class="card-img-top" img src="images/@Model.Products[i].ProductID .jpeg" alt="..." />
                         </div>
-                    </div>
-                    <!-- Product actions-->
-                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                        <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Remove</a></div>
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <h5 class="fw-bolder">@Model.Products[i].ProductName</h5>
+                                <p>@Model.Products[i].ProductPrice L.E</p>
+                            </div>
+                        </div>
+                        <form method="post" asp-page-handler="RemoveProduct">
+                            <input type="hidden" name="productId" value="@Model.Products[i].ProductID" />
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"> <button class="btn btn-outline-dark">Remove Product</button></div>
+                            </div>
+                        </form>
                     </div>
                 </div>
-            </div>
+            }
+        </div>
+    </div>
+</section>
 
-            <br> <br> <br>
 
-            <div class="col mb-5">
-                <div class="card h-100">
-                    <a class="product-item" asp-area="" asp-page="/add item">
-                        <img class="container-fluid" src="~/images/plus 2.png" alt="..." />
-                    </a>        
-                </div>
-            </div>
-            </div>
-            </div>
-            </section>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Add Products</h2>
+    <form method="post" asp-page-handler="AddProduct" enctype="multipart/form-data">
+        <table class="table table-bordered text-center" style="background-color: #f8f9fa;">
+            <tr>
+                <td class="align-middle">
+                    <div class="form-group">
+                        <label for="ProductName">Product Name:</label>
+                        <input type="text" class="form-control mt-2" id="ProductName" name="ProductName" placeholder="Enter Product Name" style="margin-bottom: 15px;" />
+                        <span asp-validation-for="@Model.ProductName" class="text-danger"></span>
+                    </div>
+                </td>
+                <td class="align-middle">
+                    <div class="form-group">
+                        <label for="ProductID">Product ID:</label>
+                        <input type="text" class="form-control mt-2" id="ProductID" name="ProductID" placeholder="Enter Product ID" style="margin-bottom: 15px;" />
+                        <span asp-validation-for="@Model.ProductID" class="text-danger"></span>
+                    </div>
+                </td>
+                <td class="align-middle">
+                    <div class="form-group">
+                        <label for="ProductPrice">Product Price:</label>
+                        <input type="text" class="form-control mt-2" id="ProductPrice" name="ProductPrice" placeholder="Enter Product Price" style="margin-bottom: 15px;" />
+                        <span asp-validation-for="@Model.ProductPrice" class="text-danger"></span>
+                    </div>
+                </td>
+                <td class="align-middle" colspan="2">
+                    <div class="form-group">
+                        <label for="fileToUpload" style="margin-bottom: 15px;">Upload a picture of product:</label>
+                        <input type="file" class="form-control-file" id="fileToUpload" name="fileToUpload" />
+                    </div>
+                </td>
+            </tr>
+            <tr style="border: none">
+                <td colspan="5" style="border: none">
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-outline-dark">Add Product</button>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+
+
 
 

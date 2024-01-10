@@ -13,65 +13,51 @@
 
 
             <li class="nav-item">
-                <a class="nav-link" asp-area="" asp-page="/index" style="color:     gray;">Log out</a>
+                <a class="nav-link" asp-area="" asp-page="/index" style="color: gray;">Log out</a>
             </li>
 
             <li class="nav-item">
                 <a class="nav-link" asp-area="" asp-page="/Admin" style="color: dodgerblue;">Products</a>
             </li>
 
-            <form method="post">
-                <label for="orderTime">Order Time:</label>
-                <input type="text" id="orderTime" name="OrderTime" />
-
-                <br />
-                <button type="submit">Save</button>
-            </form>
         </ul>
 
     </div>
 
 </nav>
-<div class="card-body p-4">
-    <h3>Order #726</h3>
-    <div class="text-center">
-        <!-- Product name-->
-        <h5> 2x chips</h5>
-        <!-- Product price-->
-        Total: 22 LE
+
+
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Cart</h2>
+
+    <div class="row">
+        <div class="col">
+            <table class="table table-bordered text-center">
+                <thead>
+                    <tr>
+                        <th scope="col">Products</th>
+                        <th scope="col">Prices</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 0; i < Model.ItemCount; i++)
+                    {
+                        <tr>
+                            <td>@Model.OrderItems[i].productName</td>
+                            <td>@Model.OrderItems[i].productPrice</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <form method="post" asp-page-handler="RemoveOrder">
+                <div class="text-center place-order-btn">
+                    <button type="submit" class="btn btn-outline-dark">Order Done</button>
+                </div>
+            </form>
+
+
+        </div>
     </div>
 </div>
-<div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-    <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Remove Order</a></div>
-</div><!-- Product details-->
-<h3>---------------------------------------------------------------------------------------------------------------------------------------</h3>
-<div class="card-body p-4">
-    <h3>Order #727</h3>
-    <div class="text-center">
-        <!-- Product name-->
-        <h5> 2x tea</h5>
-        <!-- Product price-->
-       Total: 14 LE
-    </div>
-</div>
-<div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-    <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Remove Order</a></div>
-</div>
-<h3>---------------------------------------------------------------------------------------------------------------------------------------</h3>
-
-<div class="card-body p-4">
-    <h3>Order #728</h3>
-    <div class="text-center">
-        <!-- Product name-->
-        <h5> 2x tea</h5>
-        <h5> 1x fries</h5>
-        <!-- Product price-->
-        Total: 29 LE
-    </div>
-</div>
-<div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-    <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Remove Order</a></div>
-</div>
-
-<h3>---------------------------------------------------------------------------------------------------------------------------------------</h3>
-

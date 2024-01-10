@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repo\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj": {}
+    "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj": {}
   },
   "projects": {
-    "E:\\Repo\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj": {
+    "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repo\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj",
+        "projectUniqueName": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj",
         "projectName": "SWD project",
-        "projectPath": "E:\\Repo\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj",
-        "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
-        "outputPath": "E:\\Repo\\SWD project (2)\\SWD project\\SWD project\\obj\\",
+        "projectPath": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj",
+        "packagesPath": "C:\\Users\\Habiba Mekay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Habiba Mekay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

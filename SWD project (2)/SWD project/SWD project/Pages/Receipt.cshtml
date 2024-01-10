@@ -3,14 +3,63 @@
 @{
 }
 
-<div class="container align-content-center">
-    <h1>Order confirmed!</h1>
-    <h1>Order #716</h1>
-    <h3>Pickup name: Rawan</h3>
-    <h3>Total: 29LE</h3>
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .container {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .order-confirmed {
+        color: #28a745;
+    }
+
+    .order-number {
+        font-size: 24px;
+        margin-top: 10px;
+    }
+
+    .pickup-details {
+        margin-top: 20px;
+    }
+
+    .total-price {
+        margin-top: 20px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .order-time {
+        margin-top: 10px;
+    }
+
+    .checkmark {
+        color: #28a745; /* Green color for success */
+        font-size: 48px;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="container">
+    <h1 class="order-confirmed">Order Confirmed!</h1>
+    <h3 class="order-number">Order #<span>1</span></h3>
+    <div class="pickup-details">
+        <input type="hidden" name="ProductID" value="@Model.Cname" />
+        <h3>Pickup Name: @Model.Cname</h3>
+    </div>
+    <div class="total-price">
+        Total: @Model.CTotal LE
+    </div>
 
     @if (!string.IsNullOrEmpty(Model.OrderTime))
     {
-        <p>Order Time: @Model.OrderTime</p>
+        <div class="order-time">
+            Order Time: @Model.OrderTime
+        </div>
     }
+
+    <div class="checkmark">&#10004;</div>
 </div>
