@@ -9,121 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SWD_project
 build_property.RootNamespace = SWD_project
-build_property.ProjectDir = C:\Users\Habiba Mekay\Documents\GitHub\Software-intro-project\SWD project (2)\SWD project\SWD project\
+build_property.ProjectDir = C:\Users\Rawan\Documents\GitHub\Software-intro-project\SWD project (2)\SWD project\SWD project\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Habiba Mekay\Documents\GitHub\Software-intro-project\SWD project (2)\SWD project\SWD project
+build_property.MSBuildProjectDirectory = C:\Users\Rawan\Documents\GitHub\Software-intro-project\SWD project (2)\SWD project\SWD project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/add item.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/add item.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYWRkIGl0ZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Admin.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Cart.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Error.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Index.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/orders.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/orders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcb3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Privacy.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Receipt.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Receipt.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZWlwdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/shop.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2hvcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Sign in.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Sign in.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbiBpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/_ViewImports.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/_ViewStart.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/add item.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/add item.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXGFkZCBpdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Admin.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXEFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Cart.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXENhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Error.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Index.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/orders.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/orders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXG9yZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Privacy.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Receipt.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Receipt.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXFJlY2VpcHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/shop.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXHNob3AuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Sign in.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Sign in.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXFNpZ24gaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/_ViewImports.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/_ViewStart.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Shared/_Layout.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kjug2fae0j
 
-[C:/Users/Habiba Mekay/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Shared/_Layout.cshtml]
+[C:/Users/Rawan/Documents/GitHub/Software-intro-project/SWD project (2)/SWD project/SWD project/wwwroot/images/SWD project (2)/SWD project/SWD project/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWFnZXNcU1dEIHByb2plY3QgKDIpXFNXRCBwcm9qZWN0XFNXRCBwcm9qZWN0XFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-r6utr4kjp6
