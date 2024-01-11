@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hfN+lhdB7Sp3Js7dGuqnDYAnH2V8HQhVsAl2MfZ6eIU=",
+  "Hash": "7CAmwRa39q8S7lq9rQx8g8XRWdI7zGESAc+f3gfxxOw=",
   "Source": "SWD project",
   "BasePath": "_content/SWD project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SWD project\\wwwroot",
       "Source": "SWD project",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css",
       "SourceId": "SWD project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "SWD project.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css",
       "SourceId": "SWD project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "SWD project.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,537 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\1 .jpeg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/1 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\10 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/10 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\10 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\11 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/11 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\11 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\12 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/12 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\12 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\13 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/13 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\13 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\14 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/14 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\14 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\15 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/15 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\15 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\16 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/16 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\16 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\17 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/17 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\17 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\18 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/18 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\18 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\19 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/19 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\19 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\2 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/2 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\20 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/20 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\21 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/21 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\21 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\22 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/22 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\22 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\23 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/23 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\23 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\24 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/24 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\24 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\25 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/25 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\25 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\26 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/26 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\26 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\27 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/27 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\27 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\28 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/28 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\28 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\29 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/29 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\29 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\3 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/3 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\30 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/30 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\30 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\4 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/4 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\5 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/5 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\5 .jpg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/5 .jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5 .jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\6 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/6 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\7 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/7 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\8 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/8 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\9 .jpeg",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "BasePath": "_content/SWD project",
+      "RelativePath": "images/9 .jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9 .jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png",
+      "SourceId": "SWD project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/add.png",
       "AssetKind": "All",
@@ -102,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\add.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/add2.png",
       "AssetKind": "All",
@@ -119,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\add2.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Apple.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Apple.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/Apple.jpg",
       "AssetKind": "All",
@@ -136,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Apple.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/cart.png",
       "AssetKind": "All",
@@ -153,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cart.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/cart1.png",
       "AssetKind": "All",
@@ -170,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cart1.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Cheese.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Cheese.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/Cheese.jpg",
       "AssetKind": "All",
@@ -187,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Cheese.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/chips.jpeg",
       "AssetKind": "All",
@@ -204,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chips.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/chips2.jpeg",
       "AssetKind": "All",
@@ -221,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chips2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/chips3.jpg",
       "AssetKind": "All",
@@ -238,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chips3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/chips4.jpeg",
       "AssetKind": "All",
@@ -255,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chips4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\CoffeeS.jpeg.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\CoffeeS.jpeg.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/CoffeeS.jpeg.jpg",
       "AssetKind": "All",
@@ -272,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CoffeeS.jpeg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Donty.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Donty.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/Donty.jpg",
       "AssetKind": "All",
@@ -289,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Donty.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Dor.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Dor.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/Dor.jpg",
       "AssetKind": "All",
@@ -306,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Dor.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/plus 2.png",
       "AssetKind": "All",
@@ -323,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\plus 2.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/plus.png",
       "AssetKind": "All",
@@ -340,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\plus.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SourCream.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SourCream.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SourCream.jpg",
       "AssetKind": "All",
@@ -357,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SourCream.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Spicy.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Spicy.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/Spicy.jpg",
       "AssetKind": "All",
@@ -374,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Spicy.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2).zip",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2).zip",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2).zip",
       "AssetKind": "All",
@@ -391,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2).zip"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\ProjectSettings.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\ProjectSettings.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/.vs/ProjectSettings.json",
       "AssetKind": "All",
@@ -408,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\ProjectSettings.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\SWD project\\ColorByRegexConfig.txt",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\SWD project\\ColorByRegexConfig.txt",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/.vs/SWD project/ColorByRegexConfig.txt",
       "AssetKind": "All",
@@ -425,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\SWD project\\ColorByRegexConfig.txt"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\VSWorkspaceState.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\VSWorkspaceState.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/.vs/VSWorkspaceState.json",
       "AssetKind": "All",
@@ -442,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\.vs\\VSWorkspaceState.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.Development.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.Development.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/appsettings.Development.json",
       "AssetKind": "All",
@@ -459,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.Development.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/appsettings.json",
       "AssetKind": "All",
@@ -476,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\appsettings.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.Development.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.Development.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/appsettings.Development.json",
       "AssetKind": "All",
@@ -493,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.Development.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/appsettings.json",
       "AssetKind": "All",
@@ -510,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\appsettings.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.deps.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.deps.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/SWD project.deps.json",
       "AssetKind": "All",
@@ -527,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.deps.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.dll",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.dll",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/SWD project.dll",
       "AssetKind": "All",
@@ -544,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.dll"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.exe",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.exe",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/SWD project.exe",
       "AssetKind": "All",
@@ -561,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.exe"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.pdb",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.pdb",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/SWD project.pdb",
       "AssetKind": "All",
@@ -578,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.pdb"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.runtimeconfig.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.runtimeconfig.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/SWD project.runtimeconfig.json",
       "AssetKind": "All",
@@ -595,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.runtimeconfig.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.staticwebassets.runtime.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.staticwebassets.runtime.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/bin/Debug/net6.0/SWD project.staticwebassets.runtime.json",
       "AssetKind": "All",
@@ -612,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\bin\\Debug\\net6.0\\SWD project.staticwebassets.runtime.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
       "AssetKind": "All",
@@ -629,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\apphost.exe",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\apphost.exe",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/apphost.exe",
       "AssetKind": "All",
@@ -646,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\apphost.exe"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\project.razor.vs.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\project.razor.vs.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/project.razor.vs.json",
       "AssetKind": "All",
@@ -663,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\project.razor.vs.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\ref\\SWD project.dll",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\ref\\SWD project.dll",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/ref/SWD project.dll",
       "AssetKind": "All",
@@ -680,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\ref\\SWD project.dll"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\refint\\SWD project.dll",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\refint\\SWD project.dll",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/refint/SWD project.dll",
       "AssetKind": "All",
@@ -697,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\refint\\SWD project.dll"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/scopedcss/bundle/SWD project.styles.css",
       "AssetKind": "All",
@@ -714,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SWD project.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\Pages\\Shared\\_Layout.cshtml.rz.scp.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\Pages\\Shared\\_Layout.cshtml.rz.scp.css",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css",
       "AssetKind": "All",
@@ -731,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\Pages\\Shared\\_Layout.cshtml.rz.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/scopedcss/projectbundle/SWD project.bundle.scp.css",
       "AssetKind": "All",
@@ -748,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SWD project.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.build.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.build.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/staticwebassets.build.json",
       "AssetKind": "All",
@@ -765,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.build.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.development.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.development.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/staticwebassets.development.json",
       "AssetKind": "All",
@@ -782,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.development.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.pack.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.pack.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/staticwebassets.pack.json",
       "AssetKind": "All",
@@ -799,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets.pack.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SWD project.props",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SWD project.props",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/staticwebassets/msbuild.build.SWD project.props",
       "AssetKind": "All",
@@ -816,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SWD project.props"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SWD project.props",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SWD project.props",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SWD project.props",
       "AssetKind": "All",
@@ -833,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SWD project.props"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SWD project.props",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SWD project.props",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SWD project.props",
       "AssetKind": "All",
@@ -850,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SWD project.props"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/staticwebassets/msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props",
       "AssetKind": "All",
@@ -867,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\staticwebassets\\msbuild.SWD project.Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfo.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfo.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.AssemblyInfo.cs",
       "AssetKind": "All",
@@ -884,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfo.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfoInputs.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfoInputs.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.AssemblyInfoInputs.cache",
       "AssetKind": "All",
@@ -901,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.AssemblyInfoInputs.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.assets.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.assets.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.assets.cache",
       "AssetKind": "All",
@@ -918,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.assets.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.BuildWithSkipAnalyzers",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.BuildWithSkipAnalyzers",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.csproj.BuildWithSkipAnalyzers",
       "AssetKind": "All",
@@ -935,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.BuildWithSkipAnalyzers"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.CoreCompileInputs.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.CoreCompileInputs.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.csproj.CoreCompileInputs.cache",
       "AssetKind": "All",
@@ -952,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.CoreCompileInputs.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.FileListAbsolute.txt",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.FileListAbsolute.txt",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.csproj.FileListAbsolute.txt",
       "AssetKind": "All",
@@ -969,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.csproj.FileListAbsolute.txt"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.dll",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.dll",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.dll",
       "AssetKind": "All",
@@ -986,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.dll"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.GeneratedMSBuildEditorConfig.editorconfig",
       "AssetKind": "All",
@@ -1003,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.genruntimeconfig.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.genruntimeconfig.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.genruntimeconfig.cache",
       "AssetKind": "All",
@@ -1020,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.genruntimeconfig.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GlobalUsings.g.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GlobalUsings.g.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.GlobalUsings.g.cs",
       "AssetKind": "All",
@@ -1037,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.GlobalUsings.g.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.MvcApplicationPartsAssemblyInfo.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.MvcApplicationPartsAssemblyInfo.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.MvcApplicationPartsAssemblyInfo.cache",
       "AssetKind": "All",
@@ -1054,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.MvcApplicationPartsAssemblyInfo.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.pdb",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.pdb",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.pdb",
       "AssetKind": "All",
@@ -1071,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.pdb"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.RazorAssemblyInfo.cache",
       "AssetKind": "All",
@@ -1088,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Debug/net6.0/SWD project.RazorAssemblyInfo.cs",
       "AssetKind": "All",
@@ -1105,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Debug\\net6.0\\SWD project.RazorAssemblyInfo.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.assets.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.assets.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/project.assets.json",
       "AssetKind": "All",
@@ -1122,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.assets.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.nuget.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.nuget.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/project.nuget.cache",
       "AssetKind": "All",
@@ -1139,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\project.nuget.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
       "AssetKind": "All",
@@ -1156,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfo.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfo.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/SWD project.AssemblyInfo.cs",
       "AssetKind": "All",
@@ -1173,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfo.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfoInputs.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfoInputs.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/SWD project.AssemblyInfoInputs.cache",
       "AssetKind": "All",
@@ -1190,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.AssemblyInfoInputs.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.assets.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.assets.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/SWD project.assets.cache",
       "AssetKind": "All",
@@ -1207,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.assets.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/SWD project.GeneratedMSBuildEditorConfig.editorconfig",
       "AssetKind": "All",
@@ -1224,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GeneratedMSBuildEditorConfig.editorconfig"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GlobalUsings.g.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GlobalUsings.g.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/SWD project.GlobalUsings.g.cs",
       "AssetKind": "All",
@@ -1241,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.GlobalUsings.g.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cache",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cache",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/SWD project.RazorAssemblyInfo.cache",
       "AssetKind": "All",
@@ -1258,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cache"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/Release/net6.0/SWD project.RazorAssemblyInfo.cs",
       "AssetKind": "All",
@@ -1275,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\Release\\net6.0\\SWD project.RazorAssemblyInfo.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.dgspec.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.dgspec.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/SWD project.csproj.nuget.dgspec.json",
       "AssetKind": "All",
@@ -1292,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.dgspec.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.props",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.props",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/SWD project.csproj.nuget.g.props",
       "AssetKind": "All",
@@ -1309,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.props"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.targets",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.targets",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/obj/SWD project.csproj.nuget.g.targets",
       "AssetKind": "All",
@@ -1326,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\obj\\SWD project.csproj.nuget.g.targets"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\_ViewImports.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\_ViewImports.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/_ViewImports.cshtml",
       "AssetKind": "Build",
@@ -1343,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\_ViewImports.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\_ViewStart.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\_ViewStart.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/_ViewStart.cshtml",
       "AssetKind": "Build",
@@ -1360,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\_ViewStart.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/add item.cshtml",
       "AssetKind": "Build",
@@ -1377,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/add item.cshtml.cs",
       "AssetKind": "All",
@@ -1394,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\add item.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Admin.cshtml",
       "AssetKind": "Build",
@@ -1411,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Admin.cshtml.cs",
       "AssetKind": "All",
@@ -1428,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Admin.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Cart.cshtml",
       "AssetKind": "Build",
@@ -1445,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Cart.cshtml.cs",
       "AssetKind": "All",
@@ -1462,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Cart.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Error.cshtml",
       "AssetKind": "Build",
@@ -1479,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Error.cshtml.cs",
       "AssetKind": "All",
@@ -1496,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Error.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Index.cshtml",
       "AssetKind": "Build",
@@ -1513,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Index.cshtml.cs",
       "AssetKind": "All",
@@ -1530,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Index.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/orders.cshtml",
       "AssetKind": "Build",
@@ -1547,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/orders.cshtml.cs",
       "AssetKind": "All",
@@ -1564,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\orders.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Privacy.cshtml",
       "AssetKind": "Build",
@@ -1581,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Privacy.cshtml.cs",
       "AssetKind": "All",
@@ -1598,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Privacy.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Receipt.cshtml",
       "AssetKind": "Build",
@@ -1615,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Receipt.cshtml.cs",
       "AssetKind": "All",
@@ -1632,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Receipt.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Shared/_Layout.cshtml",
       "AssetKind": "Build",
@@ -1649,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml.css",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Shared/_Layout.cshtml.css",
       "AssetKind": "All",
@@ -1666,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_Layout.cshtml.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Shared/_ValidationScriptsPartial.cshtml",
       "AssetKind": "Build",
@@ -1683,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Shared\\_ValidationScriptsPartial.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/shop.cshtml",
       "AssetKind": "Build",
@@ -1700,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/shop.cshtml.cs",
       "AssetKind": "All",
@@ -1717,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\shop.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Sign in.cshtml",
       "AssetKind": "Build",
@@ -1734,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Pages/Sign in.cshtml.cs",
       "AssetKind": "All",
@@ -1751,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Pages\\Sign in.cshtml.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Program.cs",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Program.cs",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Program.cs",
       "AssetKind": "All",
@@ -1768,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Program.cs"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Properties\\launchSettings.json",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Properties\\launchSettings.json",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/Properties/launchSettings.json",
       "AssetKind": "All",
@@ -1785,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\Properties\\launchSettings.json"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/css/styles.css",
       "AssetKind": "All",
@@ -1802,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/favicon.ico",
       "AssetKind": "All",
@@ -1819,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/add.png",
       "AssetKind": "All",
@@ -1836,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/add2.png",
       "AssetKind": "All",
@@ -1853,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\add2.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/cart.png",
       "AssetKind": "All",
@@ -1870,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/cart1.png",
       "AssetKind": "All",
@@ -1887,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\cart1.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/chips.jpeg",
       "AssetKind": "All",
@@ -1904,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/chips2.jpeg",
       "AssetKind": "All",
@@ -1921,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/chips3.jpg",
       "AssetKind": "All",
@@ -1938,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/chips4.jpeg",
       "AssetKind": "All",
@@ -1955,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\chips4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/plus 2.png",
       "AssetKind": "All",
@@ -1972,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus 2.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/images/plus.png",
       "AssetKind": "All",
@@ -1989,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\plus.png"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/SWD project (2)/SWD project/SWD project/wwwroot/js/scripts.js",
       "AssetKind": "All",
@@ -2006,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\images\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Tiger.jpg",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\images\\Tiger.jpg",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "images/Tiger.jpg",
       "AssetKind": "All",
@@ -2023,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Tiger.jpg"
     },
     {
-      "Identity": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\js\\scripts.js",
       "SourceId": "SWD project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Habiba Mekay\\Downloads\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\wwwroot\\",
       "BasePath": "_content/SWD project",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",

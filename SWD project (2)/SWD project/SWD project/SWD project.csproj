@@ -38,4 +38,8 @@
     <Folder Include="wwwroot\images\SWD project %282%29\SWD project\SWD project\obj\Release\net6.0\staticwebassets\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
 </Project>

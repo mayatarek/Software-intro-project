@@ -10,10 +10,19 @@ namespace SWD_project.Pages
 
     public class Admin_pageModel : PageModel
     {
-
+        [BindProperty]
         public string ProductName { get; set; }
+        [BindProperty]
         public string ProductID { get; set; }
+        [BindProperty]
         public int ProductPrice { get; set; }
+        [BindProperty]
+
+        public string productName { get; set; }
+        [BindProperty]
+        public int productID { get; set; }
+        [BindProperty]
+        public int productPrice { get; set; }
         public List<ProductInfo> Products { get; set; }
         public int ProductCount { get; set; }
 
@@ -82,17 +91,39 @@ namespace SWD_project.Pages
             return RedirectToPage();
         }
 
-        public IActionResult OnPostAddProduct()
+        public IActionResult OnPostAddProduct(IFormFile fileToUpload)
         {
             string connectionString = "Data Source=LAPTOP-8M8OHL36;Initial Catalog=Cafeteria;Integrated Security=True;";
             SqlConnection conn = new SqlConnection(connectionString);
-            string query = "Insert into Product values(@ProductID,@ProductName, @ProductPrice)";
+            string query = "INSERT INTO Product VALUES (@ProductID, @ProductName, @ProductPrice)";
             SqlCommand Cmd = new SqlCommand(query, conn);
 
-            Cmd.Parameters.Add("@ProductID", SqlDbType.NVarChar, 9).Value = ProductID;
-            Cmd.Parameters.Add("@ProductName", SqlDbType.NVarChar, 20).Value = ProductName;
-            Cmd.Parameters.Add("@ProductPrice", SqlDbType.NVarChar, 15).Value = ProductPrice;
+            Cmd.Parameters.Add("@ProductID", SqlDbType.Int).Value = productID;
+            Cmd.Parameters.Add("@ProductName", SqlDbType.NVarChar, 50).Value = productName;
+            Cmd.Parameters.Add("@ProductPrice", SqlDbType.Int).Value = productPrice;
 
+            if (fileToUpload != null && fileToUpload.Length > 0)
+            {
+                // Specify the folder where you want to save the files
+                var uploadFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images");
+
+                // Ensure the folder exists, create it if necessary
+                if (!Directory.Exists(uploadFolder))
+                {
+                    Directory.CreateDirectory(uploadFolder);
+                }
+
+                // Save the file to the server
+                var filePath = Path.Combine(uploadFolder, fileToUpload.FileName);
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    fileToUpload.CopyTo(stream);
+                }
+
+                // Optionally, you can do something with the file path here
+                // For example, you might want to store it in ViewData for display on the page
+                ViewData["FilePath"] = filePath;
+            }
             try
             {
                 conn.Open();

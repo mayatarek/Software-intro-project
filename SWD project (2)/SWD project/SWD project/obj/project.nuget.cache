@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "vZ1z0RKVLX1o18e2unCd2oViwHkLJ4aew0jQ8gdZsM4tz+6bL+EnrEEsSOwvG/DmS2IVaxNknrRfPNeFX2kVFw==",
+  "dgSpecHash": "RwXY/fLB6jhbIY8SJZrDmH5lqYZPCwNSFqqTmamjAkcocfGp96o9mXo/AqktWdikMbgI+4K8Rilvc7KggmkLiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rawan\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Habiba Mekay\\Documents\\GitHub\\Software-intro-project\\SWD project (2)\\SWD project\\SWD project\\SWD project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Habiba Mekay\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

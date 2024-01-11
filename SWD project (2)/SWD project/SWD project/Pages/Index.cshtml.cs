@@ -131,3 +131,5 @@ namespace SWD_project.Pages
         {
             return RedirectToPage("/Cart");
         }
+    }
+}
